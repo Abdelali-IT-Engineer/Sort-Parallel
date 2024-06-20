@@ -1,0 +1,42 @@
+Bibliothèques Utilisées
+Les bibliothèques utilisées dans ce projet sont les suivantes :
+
+1. <iostream>
+Utilisation : Entrées/sorties standard.
+Description : Afficher des messages à l'utilisateur via la console et lire les entrées de l'utilisateur.
+
+2. <vector>
+Utilisation : Manipulation des tableaux dynamiques.
+Description : Stocker les données à trier et les résultats.
+
+3. <chrono>
+Utilisation : Mesure du temps d'exécution.
+Description : Mesurer le temps d'exécution des algorithmes de tri.
+
+4. <algorithm>
+Utilisation : Fonctions génériques d'algorithmes.
+Description : Accéder à des fonctions génériques d'algorithmes, comme trouver la valeur maximale dans un tableau et effectuer des échanges d'éléments.
+
+5. <thread>
+Utilisation : Gestion des threads.
+Description : Créer et manipuler des threads.
+
+6. <mutex>
+Utilisation : Synchronisation des threads.
+Description : Fournir des primitives de synchronisation, telles que les mutex, pour garantir l'exclusion mutuelle entre les threads lors de l'accès aux sections critiques.
+
+7. <atomic>
+Utilisation : Types et opérations atomiques.
+Description : Implémenter des mécanismes d'attente active, comme le spinlock.
+
+8. <condition_variable>
+Utilisation : Attente passive.
+Description : Implémenter des mécanismes d'attente passive, comme les variables de condition, permettant aux threads d'attendre l'occurrence d'un certain événement.
+
+
+Ces bibliothèques sont essentielles pour la réalisation de l'application multithread, car elles fournissent les outils nécessaires pour gérer les threads, synchroniser leur exécution et mesurer les performances des algorithmes implémentés.
+
+
+
+
+

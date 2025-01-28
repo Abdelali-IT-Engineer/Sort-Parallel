@@ -39,4 +39,4 @@ void mergesort(std::vector<T>& data, int max_threads) {
     mergesort(data, 0, data.size() - 1, max_threads);
 }
 
-#endif // MERGESORT_H
+#endif 

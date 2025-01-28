@@ -38,4 +38,4 @@ void preprocess_data<int>(std::vector<int>& data, int max_threads) {
     radix_sort(data, max_threads);
 }
 
-#endif // SORTING_H
+#endif 

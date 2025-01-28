@@ -47,4 +47,4 @@ void quicksort(std::vector<T>& data, int max_threads) {
     quicksort(data, 0, data.size() - 1, max_threads);
 }
 
-#endif // QUICKSORT_H
+#endif 
